@@ -18,6 +18,6 @@ isort --skip-gitignore . && black . && mypy tsp && mypy cpp
 ## cpp
 
 ## references
-cpp: [http://brooksandrew.github.io/simpleblog/articles/intro-to-graph-optimization-solving-cpp/](http://brooksandrew.github.io/simpleblog/articles/intro-to-graph-optimization-solving-cpp/)
-rpp: [http://brooksandrew.github.io/simpleblog/articles/sleeping-giant-rural-postman-problem/](http://brooksandrew.github.io/simpleblog/articles/sleeping-giant-rural-postman-problem/)
-postman_problems: [https://github.com/brooksandrew/postman_problems](https://github.com/brooksandrew/postman_problems)
+* cpp: [http://brooksandrew.github.io/simpleblog/articles/intro-to-graph-optimization-solving-cpp/](http://brooksandrew.github.io/simpleblog/articles/intro-to-graph-optimization-solving-cpp/)
+* rpp: [http://brooksandrew.github.io/simpleblog/articles/sleeping-giant-rural-postman-problem/](http://brooksandrew.github.io/simpleblog/articles/sleeping-giant-rural-postman-problem/)
+* postman_problems: [https://github.com/brooksandrew/postman_problems](https://github.com/brooksandrew/postman_problems)
